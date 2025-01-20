@@ -27,7 +27,6 @@ undefined func(undefined4 param_1)
 undefined         AL:1           <RETURN>
 undefined4        Stack[0x4]:4   key                                 XREF[1]:     00010654(R)  
 undefined4        Stack[-0x10]:4 local_10                                XREF[2]:     00010638(W),
-00010677(R)  
 undefined1[32]    Stack[-0x30]   overflowme                              XREF[1]:     00010649(*)  
 undefined4        Stack[-0x4c]:4 local_4c                                XREF[4]:     0001063d(*),
 ```

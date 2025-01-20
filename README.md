@@ -5,3 +5,9 @@ is needed there will be source code to that accompanies it, the default langauge
 will be Rust for this project.
 
 The flags will not be posted on here.
+
+### Solutions:
+#### Toddler's Bottle
+- [bof](solutions/bof.md)
+- [coin1](solutions/coin1.md)
+- [horcruxes](solutions/horcruxes.md)
